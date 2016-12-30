@@ -27,4 +27,9 @@ p {
     text-align: center;
     padding: 20px;
     letter-spacing: 2px;
+
+}
+a:hover {
+    color: #FF5451;
+    text-decoration: none;
 }
