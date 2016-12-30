@@ -1,0 +1,30 @@
+div {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.title {
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+p {
+    font-family: 'Lato', proxima-nova;
+    font-weight: 300;
+    font-size: 1.9rem;
+    text-align: center;
+}
+.HorizLinks{
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 2px;
+}
